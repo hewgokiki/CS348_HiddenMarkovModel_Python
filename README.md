@@ -2,7 +2,7 @@
 
 **CS348 HMM Python project that's tell about Probability of tossing a coin**
 
-This project is run on JupyterNotebook and This explain about
+**This project is run on JupyterNotebook and This explain about**
 *Hidden Markov Model (HMM)
 *Transition Probability
 *Transition Matrix
